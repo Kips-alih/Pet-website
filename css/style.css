@@ -1,0 +1,7 @@
+body{
+  background-image: url(/images/dog.jpeg);
+  color:orange;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
